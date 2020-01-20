@@ -16,7 +16,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="jennymanb@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="mailto:jennymanb@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/jennifer-manriquezt="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/in/jennifer-mar%C3%ADa-manr%C3%ADquez-burrolas-b5aa42129/"_blank"><i class="fa fa-linkedin-square"></i></a>
 <!--	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
